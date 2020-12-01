@@ -14,5 +14,13 @@ Instalamos yum-utils
 - Paso 2  
 Añadimos e instalamos lo necesario para instalar docker  
 ![imagen](imagenes/docker.jpg) 
+  
+- Paso 3  
+Iniciamos servicio de docker
+![imagen](imagenes/iniciar.jpg)  
+  
+- Paso 4
+Comprobamos la version y creamos un contenedor de ejemoplo para ver que todo va correctamente
+![imagen](imagenes/Comprobacion.jpg) 
 
 ### Referencias
